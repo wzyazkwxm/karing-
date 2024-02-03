@@ -2,32 +2,33 @@
 <h1 align="center">
   <img src="./assets/img/mascot.jpg" alt="Karing" width="256" />
   <br>
-  Karing - Simple & Powerful proxy utility
+  Karing - 简单而强大的代理实用程序
   <br>
 </h1>
 
 <h3 align="center">
-A <a href="https://github.com/SagerNet/sing-box">singbox</a> GUI based on <a href="https://github.com/flutter/flutter">flutter</a>.
+一个 <a href="https://github.com/SagerNet/sing-box">singbox</a> 图形用户界面基于 <a href="https://github.com/flutter/flutter">flutter</a>.
 </h3>
 
 
 ## Features
-- Compatible with Clash, V2ray/V2fly, Sing-box, Shadowsocks, Sub, Github Subscriptions.
-- Full `clash` config supported, Partial `clash.meta` config supported.
-- Simple UI and supports custom theme color.
-- Built-in support [singbox](https://github.com/SagerNet/sing-box) core.
-- System proxy setting and guard.
-- Plan to support all platforms.
+- C特征
+ 兼容 Clash、V2ray/V2fly、Sing-box、Shadowsocks、Sub、Github 订阅。
+ 支持完整的碰撞配置，支持部分碰撞.元配置。
+ 简洁的UI，支持自定义主题颜色。
+- 内置支持 [singbox](https://github.com/SagerNet/sing-box) 核心
+- 系统代理设置和守护。
+ 计划支持所有平台。.
 
 ## Promotion
 
 [NETZ](https://netz.run)
 
-- High-performance overseas VPN, free trial, support trojan protocol.
-- Free trial and purchase (no registration required)：[Telegram bot](https://t.me/netzrun_bot?start=ref_karing)
+- 高性能海外VPN，免费试用，支持木马协议。
+ 免费试用和购买（无需注册：[Telegram bot](https://t.me/netzrun_bot?start=ref_karing)
 
 
-## Install
+## 安装
 - **Windows/Android**:
   - https://github.com/KaringX/karing/releases/latest
 - **IOS/MacOS TestFlight**:
@@ -37,20 +38,20 @@ A <a href="https://github.com/SagerNet/sing-box">singbox</a> GUI based on <a hre
 
 
 
-### FAQ
+### 帮助
 
 > wating...
 
 
 ## Todos
-- Platform to be supported:
+- 待支持平台:
   - tvOS（apple tv）
   - linux | [linglong](https://linglong.dev/)
-- Globalization(multi-language)
-  - If you are willing to work with us to support Karing globalization, please send an email to bdluking@gmail.com to apply
+- 全球化（多语言）
+ 如果您愿意与我们一起支持Karing全球化，请发送邮件至bdluking@gmail.com申请
 
 
-## Screenshots (Windows version)
+## 屏幕截图（Windows 版本)
 
 <div align="center">
   <img src="./assets/demo/home.png" alt="demo1" width="50%" />
@@ -67,14 +68,15 @@ A <a href="https://github.com/SagerNet/sing-box">singbox</a> GUI based on <a hre
 </div>
 
 
-## Contributions
+## 贡献
 [welcome to report issue!](https://github.com/KaringX/karing/issues)
 
 
 ## Acknowledgement
 
-Karing was based on or inspired by these projects and so on:
+致谢
+ Karing 是基于这些项目或受到这些项目的启发等等:
 
-- [flutter](https://flutter.dev/): makes it easy and fast to build beautiful apps for mobile and beyond.
-- [singbox](https://sing-box.sagernet.org/): The universal proxy platform.
-- [Meta-Docs](https://wiki.metacubex.one/config/): Clash.Meta docs
+- [flutter](https://flutter.dev/): 可以轻松快速地为移动设备及其他领域构建精美的应用程序。
+- [singbox](https://sing-box.sagernet.org/): 通用代理平台。
+- [Meta-Docs](https://wiki.metacubex.one/config/): Clash.元文档
